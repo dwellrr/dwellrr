@@ -1,6 +1,7 @@
 - Hi :)
-- It's Dwell, the well dweller
-- Sometimes i code
+- My name is Sophie
+- I'm a Ukrainian student with a passion for code, game development and art.
+- I speak Ukrainian/Russian/English fluently
 
 <!---
 dwellrr/dwellrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
