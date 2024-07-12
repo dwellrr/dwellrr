@@ -1,6 +1,6 @@
 - Hi :)
 - My name is Sophie
-- I'm a Ukrainian student with a passion for code, game development and art.
+- I'm a Ukrainian *graduate* with a passion for code, game development and art.
 - I speak Ukrainian/Russian/English fluently
 
 <!---
